@@ -1,0 +1,415 @@
+[{
+    "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "duration": 142,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Drama"],
+    "rate": 9.3
+  },
+  {
+    "id": "c8a7d63f-3b04-44d3-9d95-8782fd7dcfaf",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "duration": 152,
+    "poster": "https://i.ebayimg.com/images/g/yokAAOSw8w1YARbm/s-l1200.jpg",
+    "genre": ["Action", "Crime", "Drama"],
+    "rate": 9.0
+  },
+  {
+    "id": "5ad1a235-0d9c-410a-b32b-220d91689a08",
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "duration": 148,
+    "poster": "https://m.media-amazon.com/images/I/91Rc8cAmnAL._AC_UF1000,1000_QL80_.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 8.8
+  },
+  {
+    "id": "241bf55d-b649-4109-af7c-0e6890ded3fc",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "duration": 154,
+    "poster": "https://www.themoviedb.org/t/p/original/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "genre": ["Crime", "Drama"],
+    "rate": 8.9
+  },
+  {
+    "id": "9e6106f0-848b-4810-a11a-3d832a5610f9",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "duration": 142,
+    "poster": "https://i.ebayimg.com/images/g/qR8AAOSwkvRZzuMD/s-l1600.jpg",
+    "genre": ["Drama", "Romance"],
+    "rate": 8.8
+  },
+  {
+    "id": "7e3fd5ab-60ff-4ae2-92b6-9597f0308d1",
+    "title": "Gladiator",
+    "year": 2000,
+    "director": "Ridley Scott",
+    "duration": 155,
+    "poster": "https://img.fruugo.com/product/0/60/14417600_max.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rate": 8.5
+  },
+  {
+    "id": "c906673b-3948-4402-ac7f-73ac3a9e3105",
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "Lana Wachowski",
+    "duration": 136,
+    "poster": "https://i.ebayimg.com/images/g/QFQAAOSwAQpfjaA6/s-l1200.jpg",
+    "genre": ["Action", "Sci-Fi"],
+    "rate": 8.7
+  },
+  {
+    "id": "b6e03689-cccd-478e-8565-d92f40813b13",
+    "title": "Interstellar",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "duration": 169,
+    "poster": "https://m.media-amazon.com/images/I/91obuWzA3XL._AC_UF1000,1000_QL80_.jpg",
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "rate": 8.6
+  },
+  {
+    "id": "aa391090-b938-42eb-b520-86ea0aa3917b",
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "duration": 201,
+    "poster": "https://i.ebayimg.com/images/g/0hoAAOSwe7peaMLW/s-l1600.jpg",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rate": 8.9
+  },
+  {
+    "id": "2e6900e2-0b48-4fb6-ad48-09c7086e54fe",
+    "title": "The Lion King",
+    "year": 1994,
+    "director": "Roger Allers, Rob Minkoff",
+    "duration": 88,
+    "poster": "https://m.media-amazon.com/images/I/81BMmrwSFOL._AC_UF1000,1000_QL80_.jpg",
+    "genre": ["Animation", "Adventure", "Drama"],
+    "rate": 8.5
+  },
+  {
+    "id": "04986507-b3ed-442c-8ae7-4c5df804f896",
+    "title": "The Avengers",
+    "year": 2012,
+    "director": "Joss Whedon",
+    "duration": 143,
+    "poster": "https://img.fruugo.com/product/7/41/14532417_max.jpg",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 8.0
+  },
+  {
+    "id": "7d2832f8-c70a-410e-8963-4c93bf36cc9c",
+    "title": "Jurassic Park",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "duration": 127,
+    "poster": "https://vice-press.com/cdn/shop/products/Jurassic-Park-Editions-poster-florey.jpg?v=1654518755&width=1024",
+    "genre": ["Adventure", "Sci-Fi"],
+    "rate": 8.1
+  },
+  {
+    "id": "ccf36f2e-8566-47f7-912d-9f4647250bc7",
+    "title": "Titanic",
+    "year": 1997,
+    "director": "James Cameron",
+    "duration": 195,
+    "poster": "https://i.pinimg.com/originals/42/42/65/4242658e6f1b0d6322a4a93e0383108b.png",
+    "genre": ["Drama", "Romance"],
+    "rate": 7.8
+  },
+  {
+    "id": "8fb17ae1-bdfe-45e5-a871-4772d7e526b8",
+    "title": "The Social Network",
+    "year": 2010,
+    "director": "David Fincher",
+    "duration": 120,
+    "poster": "https://i.pinimg.com/originals/7e/37/b9/7e37b994b613e94cba64f307b1983e39.jpg",
+    "genre": ["Biography", "Drama"],
+    "rate": 7.7
+  },
+  {
+    "id": "6a360a18-c645-4b47-9a7b-2a71babbf3e0",
+    "title": "Avatar",
+    "year": 2009,
+    "director": "James Cameron",
+    "duration": 162,
+    "poster": "https://i.etsystatic.com/35681979/r/il/dfe3ba/3957859451/il_fullxfull.3957859451_h27r.jpg",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "rate": 7.8
+  },
+  {
+    "id": "01234567-89ab-cdef-0123-456789abcdef",
+    "title": "Die Hard",
+    "year": 1988,
+    "director": "John McTiernan",
+    "duration": 132,
+    "poster": "https://www.movieposter.com/posters/archive/main/69/MPW-34956",
+    "genre": ["Action", "Thriller"],
+    "rate": 8.2
+  },
+  {
+    "id": "12345678-9abc-def0-1234-56789abcdef0",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "director": "George Miller",
+    "duration": 120,
+    "poster": "https://www.movieposter.com/posters/archive/main/198/MPW-99060",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 8.1
+  },
+  {
+    "id": "23456789-abcd-ef01-2345-6789abcdef01",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "duration": 152,
+    "poster": "https://www.movieposter.com/posters/archive/main/66/MPW-33092",
+    "genre": ["Action", "Crime", "Drama"],
+    "rate": 9.0
+  },
+  {
+    "id": "34567890-bcde-f012-3456-789abcdef012",
+    "title": "The Notebook",
+    "year": 2004,
+    "director": "Nick Cassavetes",
+    "duration": 123,
+    "poster": "https://www.movieposter.com/posters/archive/main/21/A70-10614",
+    "genre": ["Romance", "Drama"],
+    "rate": 7.8
+  },
+  {
+    "id": "45678901-cdef-0123-4567-89abcdef0123",
+    "title": "Pride and Prejudice",
+    "year": 2005,
+    "director": "Joe Wright",
+    "duration": 129,
+    "poster": "https://www.movieposter.com/posters/archive/main/36/MPW-18235",
+    "genre": ["Romance", "Drama"],
+    "rate": 7.8
+  },
+  {
+    "id": "56789012-def0-1234-5678-9abcdef01234",
+    "title": "La La Land",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "duration": 128,
+    "poster": "https://www.movieposter.com/posters/archive/main/227/MPW-113702",
+    "genre": ["Romance", "Drama", "Musical"],
+    "rate": 8.0
+  },
+  {
+    "id": "67890123-ef01-2345-6789-abcdef012345",
+    "title": "Titanic",
+    "year": 1997,
+    "director": "James Cameron",
+    "duration": 195,
+    "poster": "https://www.movieposter.com/posters/archive/main/6/A70-3631",
+    "genre": ["Romance", "Drama"],
+    "rate": 7.8
+  },
+  {
+    "id": "78901234-f012-3456-789a-bcdef0123456",
+    "title": "The Fault in Our Stars",
+    "year": 2014,
+    "director": "Josh Boone",
+    "duration": 126,
+    "poster": "https://www.movieposter.com/posters/archive/main/230/MPW-115475",
+    "genre": ["Romance", "Drama"],
+    "rate": 7.7
+  },
+  {
+    "id": "89012345-0123-4567-89ab-cdef01234567",
+    "title": "500 Days of Summer",
+    "year": 2009,
+    "director": "Marc Webb",
+    "duration": 95,
+    "poster": "https://www.movieposter.com/posters/archive/main/69/MPW-34977",
+    "genre": ["Romance", "Comedy", "Drama"],
+    "rate": 7.7
+  },
+  {
+    "id": "90123456-1234-5678-9abc-def012345678",
+    "title": "The Shining",
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "duration": 146,
+    "poster": "https://www.movieposter.com/posters/archive/main/66/MPW-33045",
+    "genre": ["Horror", "Drama"],
+    "rate": 8.4
+  },
+  {
+    "id": "01234567-2345-6789-abcd-ef0123456789",
+    "title": "Psycho",
+    "year": 1960,
+    "director": "Alfred Hitchcock",
+    "duration": 109,
+    "poster": "https://www.movieposter.com/posters/archive/main/4/A70-1806",
+    "genre": ["Horror", "Mystery", "Thriller"],
+    "rate": 8.5
+  },
+  {
+    "id": "12345678-3456-789a-bcde-f0123456789a",
+    "title": "Get Out",
+    "year": 2017,
+    "director": "Jordan Peele",
+    "duration": 104,
+    "poster": "https://www.movieposter.com/posters/archive/main/237/MPW-118879",
+    "genre": ["Horror", "Mystery", "Thriller"],
+    "rate": 7.7
+  },
+  {
+    "id": "45678901-6789-abcd-ef01-23456789abcd",
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "director": "Gabriele Muccino",
+    "duration": 117,
+    "poster": "https://www.movieposter.com/posters/archive/main/52/MPW-26240",
+    "genre": ["Drama", "Biography"],
+    "rate": 8.0
+  },
+  {
+    "id": "56789012-789a-bcde-f012-3456789abcdef",
+    "title": "The Green Mile",
+    "year": 1999,
+    "director": "Frank Darabont",
+    "duration": 189,
+    "poster": "https://www.movieposter.com/posters/archive/main/65/MPW-32805",
+    "genre": ["Drama", "Fantasy", "Crime"],
+    "rate": 8.6
+  },
+  {
+    "id": "67890123-89ab-cdef-0123-456789abcdef0",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "duration": 142,
+    "poster": "https://i.ebayimg.com/images/g/4goAAOSwMyBe7hnQ/s-l1200.webp",
+    "genre": ["Drama"],
+    "rate": 9.3
+  },
+  {
+    "id": "78901234-9abc-def0-1234-56789abcdef01",
+    "title": "Life is Beautiful",
+    "year": 1997,
+    "director": "Roberto Benigni",
+    "duration": 116,
+    "poster": "https://www.movieposter.com/posters/archive/main/18/MPW-9188",
+    "genre": ["Drama", "Comedy", "War"],
+    "rate": 8.6
+  },
+  {
+    "id": "89012345-0123-4567-89ab-cdef012345678",
+    "title": "Nomadland",
+    "year": 2020,
+    "director": "Chloé Zhao",
+    "duration": 107,
+    "poster": "https://www.movieposter.com/posters/archive/main/237/MPW-118938",
+    "genre": ["Drama"],
+    "rate": 7.4
+  },
+  {
+    "id": "90123456-1234-5678-9abc-def0123456789",
+    "title": "The Trial of the Chicago 7",
+    "year": 2020,
+    "director": "Aaron Sorkin",
+    "duration": 129,
+    "poster": "https://www.movieposter.com/posters/archive/main/243/MPW-121525",
+    "genre": ["Drama", "History"],
+    "rate": 7.8
+  },
+  {
+    "id": "01234567-2345-6789-abcd-ef01234567890",
+    "title": "Minari",
+    "year": 2020,
+    "director": "Lee Isaac Chung",
+    "duration": 115,
+    "poster": "https://www.movieposter.com/posters/archive/main/236/MPW-118594",
+    "genre": ["Drama"],
+    "rate": 7.5
+  },
+  {
+    "id": "34567890-4567-89ab-cdef-0123456789abc",
+    "title": "Tenet",
+    "year": 2020,
+    "director": "Christopher Nolan",
+    "duration": 150,
+    "poster": "https://www.movieposter.com/posters/archive/main/246/MPW-123206",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "rate": 7.4
+  },
+  {
+    "id": "45678901-5678-9abc-def0-123456789abcd",
+    "title": "Extraction",
+    "year": 2020,
+    "director": "Sam Hargrave",
+    "duration": 117,
+    "poster": "https://www.movieposter.com/posters/archive/main/248/MPW-124003",
+    "genre": ["Action", "Thriller"],
+    "rate": 6.7
+  },
+  {
+    "id": "56789012-6789-abcd-ef01-23456789abcdef",
+    "title": "Mulan",
+    "year": 2020,
+    "director": "Niki Caro",
+    "duration": 115,
+    "poster": "https://www.movieposter.com/posters/archive/main/241/MPW-120683",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rate": 5.6
+  },
+  {
+    "id": "90123456-abcd-ef01-2345-6789abcdef01",
+    "title": "The Avengers",
+    "year": 2012,
+    "director": "Joss Whedon",
+    "duration": 143,
+    "poster": "https://www.movieposter.com/posters/archive/main/142/MPW-71176",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 8.0
+  },
+  {
+    "id": "01234567-bcde-f012-3456-789abcdef012",
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "director": "Joss Whedon",
+    "duration": 141,
+    "poster": "https://www.movieposter.com/posters/archive/main/236/MPW-118034",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 7.3
+  },
+  {
+    "id": "23456789-cdef-0123-4567-89abcdef0123",
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "director": "Anthony Russo, Joe Russo",
+    "duration": 149,
+    "poster": "https://www.movieposter.com/posters/archive/main/243/MPW-121604",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rate": 8.4
+  },
+  {
+    "id": "34567890-def0-1234-5678-9abcdef01234",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "director": "Anthony Russo, Joe Russo",
+    "duration": 181,
+    "poster": "https://www.movieposter.com/posters/archive/main/248/MPW-124002",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rate": 8.4
+  }
+  
+  
+  
+  
+]
